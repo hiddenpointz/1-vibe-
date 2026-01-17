@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "www.configurationalmodeling.com/1-vibe",
+      "source": "/1-vibe",
       "destination": "/1-vibe/index.html"
     },
     {
