@@ -5,7 +5,7 @@
       "destination": "/1-vibe/index.html"
     },
     {
-      "source": "/1-vibe/",
+      "source": "/1-vibe/(.*)",
       "destination": "/1-vibe/index.html"
     }
   ]
